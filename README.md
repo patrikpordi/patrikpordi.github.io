@@ -1,5 +1,6 @@
 # Patrik Dominik Pördi  
 
+<img src="assets/profile_picture.jpg" alt="Profile Picture" width="200" style="border-radius: 50%;" align="right" />
 Robotics & Mechatronics Engineer | Drone & Autonomous Systems Enthusiast  
 
 Salt Lake City, Utah  
