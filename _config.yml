@@ -1,5 +1,8 @@
 title: Patrik Dominik Pordi
 logo: /assets/profile_picture.JPG
-#description: text below image
-#show_downloads: true
+description: |
+  ### Featured YouTube Projects  
+  - [ROS2 & PX4 Tutorials](https://www.youtube.com/watch?v=skv9fBnTFDU&list=PLUepQApgwSoyIdgrab7oNXktWxaxzTcKm)  
+  #- [Drone Swarm Control](https://www.youtube.com/watch?v=XXXXXX)  
+  #- [CNC Digital Twin Simulation](https://www.youtube.com/watch?v=XXXXXX)  
 theme: jekyll-theme-minimal
