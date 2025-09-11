@@ -3,6 +3,6 @@ logo: /assets/profile_picture.JPG
 description: |
   ### Featured YouTube Projects  
   - [ROS2 & PX4 Tutorials](https://www.youtube.com/watch?v=skv9fBnTFDU&list=PLUepQApgwSoyIdgrab7oNXktWxaxzTcKm)  
-  #- [Drone Swarm Control](https://www.youtube.com/watch?v=XXXXXX)  
+  - [Drone Ball Catch](https://youtu.be/ohmR_N8FW8Q)  
   #- [CNC Digital Twin Simulation](https://www.youtube.com/watch?v=XXXXXX)  
 theme: jekyll-theme-minimal
