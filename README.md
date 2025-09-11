@@ -82,6 +82,29 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 
 ---
 
+# Volunteering & Extracurricular Activities
+
+- **Best Friends Animal Society** – Volunteer *(Salt Lake City, United States, 2024–Present)*
+
+- **IEEE RAS Working Group – IEEE P2817™ Verification of Autonomous Systems** – Member *(2024–Present)*
+  - Contributing to standards of Verification of Autonomous Systems.
+  - Participated in working group conference at ICRA 2024 in Japan.
+
+- **Competing Team Member** – NIST First Responder UAS 3D Mapping Challenge *(Maryland, United States, Sep 2023–Feb 2024 )*  
+  - Implementing 3D mapping solutions on drones as part of the Autonomous Micro Air Vehicle (AMAV) team at UMD.
+
+- **Research Member** – STEP File-Based Automatic Production Time Estimation, Department of Manufacturing Science and Engineering, BME *(Budapest, Hungary, Jan 2020–Jun 2022)*  
+  - Developed a Python application using regular expressions (RegEx) to extract machining features from STEP files and estimate production-related metrics.
+
+- **Research Member** – Reconfigurable Manufacturing Systems (Robotics Concentration), Department of Industrial Engineering, UiT *(Narvik, Norway, Jan 2022–Jun 2023)*  
+  - Designed multiple RMS versions for oil industry scenarios using Python and Visual Components.
+
+- **Engineering Project Team Member** – BME Mechatronics Student Society *(Budapest, Hungary, 2019–2022)*  
+  - Investigated hardware and software solutions for projects including a line-follower mini car, jumping robot, and closed-chain mechanism with inverse kinematics simulation.  
+  - Provided consultations in programming, manufacturing, and robot modeling.
+
+---
+
 ## Nature Photography  
 
 <p align="center">
