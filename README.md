@@ -82,7 +82,7 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 
 ---
 
-# Volunteering & Extracurricular Activities
+## Volunteering & Extracurricular Activities
 
 - **Best Friends Animal Society** – Volunteer *(Salt Lake City, United States, 2024–Present)*
 
