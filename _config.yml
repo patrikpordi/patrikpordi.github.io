@@ -1,18 +1,20 @@
 title: Patrik Dominik Pordi
-logo: /assets/profile_picture.JPG
-description: |
-  <h3>Featured YouTube Projects</h3>
+logo: /assets/profile_picture.jpg
+description: Robotics Engineer | Fulbright Scholar | Hobby Photographer
+  <h3>Featured Projects</h3>
   <ul>
-    <li><a href="https://www.youtube.com/watch?v=XXXXX">PX4 Flight Modes Tutorial</a></li>
-    <li><a href="https://www.youtube.com/watch?v=YYYYY">Drone Swarm Control</a></li>
-    <li><a href="https://www.youtube.com/watch?v=ZZZZZ">CNC Digital Twin Simulation</a></li>
+    <li><a href="https://www.youtube.com/watch?v=skv9fBnTFDU&list=PLUepQApgwSoyIdgrab7oNXktWxaxzTcKm&pp=0gcJCZYEOCosWNin">ROS2 & PX4 Tutorials</a></li>
+    <li><a href="https://github.com/Dronecode/roscon-25-workshop">PX4 + ROS 2 ROSCon 2025 Workshop</a></li>
+    <li><a href="https://github.com/patrikpordi/Project_LegionAir/tree/dev_swarm_branch">Drone Swarm Control</a></li>
+    <li><a href="https://github.com/patrikpordi/ARIAC_Group3">ROS2 Ariac Competition</a></li>
+    <li><a href="https://youtu.be/ohmR_N8FW8Q?si=Nsj9952hBcybCJmh">Ball catching with autonomous drone using Vicon and EKF</a></li>
   </ul>
 
   <h3>Downloads</h3>
   <ul>
-    <li><a href="/assets/cv.pdf">Curriculum Vitae (PDF)</a></li>
-    <li><a href="/assets/project1.pdf">Project Paper 1</a></li>
-    <li><a href="/assets/project2.pdf">Project Paper 2</a></li>
+    <li><a href="/assets/resume.pdf">Curriculum Vitae (PDF)</a></li>
+    <li><a href="/assets/swarm.pdf">Drone Swarm Control Paper</a></li>
+    <li><a href="/assets/catch.pdf">Ball catching with autonomous drone using Vicon and EKF</a></li>
   </ul>
 
 theme: jekyll-theme-minimal
