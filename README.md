@@ -71,7 +71,7 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 - **Lightning Talk Speaker** – ROSCon 2024, Odense, Denmark *(Oct 2024)*  
   *Presented on using ROS 2 and PX4 for developing custom flight modes.*
   <p align="center">
-    <a href="/assets/roscon2024_talk_full.jpg">
+    <a href="/assets/roscon2024_talk.jpg">
       <img src="/assets/roscon2024_talk.jpg" alt="Speaking at ROSCon 2024" width="40%" />
     </a>
   </p>
