@@ -68,6 +68,15 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 
 ## Scholarships & Honors
 
+- **Lightning Talk Speaker** – ROSCon 2024, Odense, Denmark *(Oct 2024)*  
+  *Presented on using ROS 2 and PX4 for developing custom flight modes.*
+  <p align="center">
+    <a href="/assets/roscon2024_talk_full.jpg">
+      <img src="/assets/roscon2024_talk.jpg" alt="Speaking at ROSCon 2024" width="40%" />
+    </a>
+  </p>
+- **Winner of Travel Grant** – IEEE Robotic Standardization Efforts (SPIRSE), IEEE Robotics and Automation Society *(Mar 2024)*  
+  *Supported participation in IEEE ICRA 2024 (Yokohama, Japan) to engage in robotics standardization initiatives.*
 - **Fulbright Scholar Award** – Master's Studies in the United States *(2023)*
 - **Rosztoczy Foundation Scholarship Program** – Hungarian Scholarship for studies in the United States *(2023)*
 - **Hungarian American Coalition Dr. Elemér and Éva Kiss Scholarship** *(2022, 2023)*
