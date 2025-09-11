@@ -69,6 +69,20 @@ Outside of engineering, I enjoy traveling, hiking, and photography.
 
 ---
 
+## Travel Photography  
+
+<p align="center">
+  <a href="/assets/travel1.jpg">
+    <img src="/assets/travel1.jpg" alt="Travel photo 1" width="30%" />
+  </a>
+  <a href="/assets/travel2.jpg">
+    <img src="/assets/travel2.jpg" alt="Travel photo 2" width="30%" />
+  </a>
+  <a href="/assets/travel3.jpg">
+    <img src="/assets/travel3.jpg" alt="Travel photo 3" width="30%" />
+  </a>
+</p>
+
 ## Contact  
 I am always open to collaboration in robotics, drones, and open-source projects.  
 [LinkedIn](https://linkedin.com/in/YOUR-LINK) | [GitHub](https://github.com/YOUR-GITHUB) | [Email](mailto:pordipatrik@gmail.com)  
