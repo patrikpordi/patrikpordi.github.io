@@ -3,7 +3,7 @@ logo: /assets/profile_picture.jpg
 description: Robotics Engineer | Fulbright Scholar | Hobby Photographer
   <h3>Featured Projects</h3>
   <ul>
-    <li><a href="https://www.youtube.com/watch?v=skv9fBnTFDU&list=PLUepQApgwSoyIdgrab7oNXktWxaxzTcKm&pp=0gcJCZYEOCosWNin">ROS2 & PX4 Tutorials</a></li>
+    <li><a href="https://www.youtube.com/watch?v=3BJB3OAo3tw&list=PLUepQApgwSoyIdgrab7oNXktWxaxzTcKm&index=2">ROS2 & PX4 Tutorials</a></li>
     <li><a href="https://github.com/Dronecode/roscon-25-workshop">PX4 + ROS 2 ROSCon 2025 Workshop</a></li>
     <li><a href="https://github.com/patrikpordi/Project_LegionAir/tree/dev_swarm_branch">Drone Swarm Control</a></li>
     <li><a href="https://github.com/patrikpordi/ARIAC_Group3">ROS2 Ariac Competition</a></li>

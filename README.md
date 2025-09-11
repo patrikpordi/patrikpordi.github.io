@@ -9,7 +9,7 @@ Phone: +1 (240) 714-0679 | +36 (30) 643-6565
 
 ## About Me  
 I am a robotics and UAV engineer from Hungary, who is passionate about autonomous systems, computer vision, stochastic control and embedded development.  
-Currently, I work at ARK Electronics in Salt Lake City, where I develop ROS2 tutorials, PX4 flight modes, and embedded drivers for UAV systems, moreover I focus on hardware and software integration with the Jetson platform.  
+Currently, during my Fulbright scholarship I work at ARK Electronics in Salt Lake City, where I develop ROS2 tutorials, PX4 flight modes, and embedded drivers for UAV systems, moreover I focus on hardware and software integration with the Jetson platform.  
 
 My background combines robotics research, engineering, and teaching—ranging from drone swarms and CNC cyber-physical systems to guiding students in ROS2 programming.  
 
@@ -22,13 +22,18 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 **Robotics & Drone Engineer** – **ARK Electronics**, USA (Jun 2024 – Present)  
 - Delivered ROS2 tutorials on custom PX4 flight modes, presented at ROSCon.  
 - Developed GPS/IMU drivers, integrated PX4 on Jetson & Raspberry Pi, and secured PX4 logs with encryption.  
-- Conducted flight tests, supported drone assembly/repair, and collaborated with interns.  
+- Conducted flight tests, supported drone assembly/repair, and collaborated with interns.
+- Hands-on hardware experience, from soldering and board repair to integrating third-party components on our drones
 
-**Teaching Assistant – Robot Programming** – **University of Maryland**, USA (Aug 2023 – Jun 2024)  
-- Led Python/C++ ROS2 labs, supported assignments/projects, and guided a TurtleBot maze competition for both graduate and undergraduate students.  
+**Teaching Assistant – Robot Programming** – **University of Maryland**, USA (Aug 2023 – Jun 2024)
+- Assisted professors with class material preparation, assignments, projects, and grading for both undergraduate and graduate students.
+- Led Python/C++ ROS2 labs, teaching basic and advanced ROS concepts using both simulation and real TurtleBots.
+- Organized and guided a TurtleBot maze competition for both graduate and undergraduate students.  
 
 **UAV Engineer** – **Aviant AS**, Norway (Jun 2023 – Aug 2023)  
-- Conducted big data analytics on flight logs to identify shortcomings and to improve delivery accuracy, implemented RTK GPS configurations, and built a vision-based system for winch deliveries.  
+- Conducted big data analytics on flight logs to identify shortcomings and to improve delivery accuracy.
+- Implemented and tested RTK GPS configurations on the drones.
+- Developed a vision-based system for winch deliveries to increase safety and delivery accuracy.  
 
 **Electrical Engineer** – **Evosoft (Siemens)**, Hungary (Jul 2020 – Aug 2021)  
 - Designed a CNC cyber-physical system with OPC UA.  
@@ -61,7 +66,23 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 
 ---
 
-## Travel Photography  
+## Scholarships & Honors
+
+- **Fulbright Scholar Award** – Master's Studies in the United States *(2023)*
+- **Rosztoczy Foundation Scholarship Program** – Hungarian Scholarship for studies in the United States *(2023)*
+- **Hungarian American Coalition Dr. Elemér and Éva Kiss Scholarship** *(2022, 2023)*
+- **Second Place** – Hungarian National Round of the Conference of Student Research *(2023)*  
+  *Presented a paper on STEP file-based automatic production time estimation*
+- **First Place** – Conference of Student Research at BME *(2022)*  
+  *Qualified for the National Student Research Conference with a paper on STEP file-based automatic production time estimation*
+- **Professional Scholarship** – For Exceptional Members of the BME German Bilingual Class *(2021)*
+- **BME Study & Sport Scholarship** *(2019)*
+- **Outstanding Achievements** – Hungarian Handball Championships *(2015-2020)*
+- **Third Place** – Hungarian University-College National Handball Championship *(2020)*
+
+---
+
+## Nature Photography  
 
 <p align="center">
   <a href="/assets/travel1.jpg">
