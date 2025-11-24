@@ -8,8 +8,8 @@ Phone: +1 (240) 714-0679 | +36 (30) 643-6565
 ---
 
 ## About Me  
-I am a robotics and UAV engineer from Hungary, who is passionate about autonomous systems, computer vision, stochastic control and embedded development.  
-Currently, during my Fulbright scholarship I work at ARK Electronics in Salt Lake City, where I develop ROS2 tutorials, PX4 flight modes, and embedded drivers for UAV systems, moreover I focus on hardware and software integration with the Jetson platform.  
+I am a Robotics and UAV engineer from Hungary, who is passionate about autonomous systems, computer vision, stochastic control and embedded development, lately I am getting involved with physical AI.  
+Currently, during my Fulbright scholarship I work at ARK Electronics in Salt Lake City, where I develop ROS2 tutorials, PX4 flight modes, and embedded drivers for UAV systems, moreover I focus on hardware and software integration with the Jetson and Pi platform.  
 
 My background combines robotics research, engineering, and teaching—ranging from drone swarms and CNC cyber-physical systems to guiding students in ROS2 programming.  
 
@@ -20,7 +20,7 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 ## Work Experience  
 
 **Robotics & Drone Engineer** – **ARK Electronics**, USA (Jun 2024 – Present)  
-- Delivered ROS2 tutorials on custom PX4 flight modes, presented at ROSCon.  
+- Delivered ROS2 tutorials on custom PX4 flight modes, presented and held a workshop at ROSCon 2024 and 2025, respectively.  
 - Developed GPS/IMU drivers, integrated PX4 on Jetson & Raspberry Pi, and secured PX4 logs with encryption.  
 - Conducted flight tests, supported drone assembly/repair, and collaborated with interns.
 - Hands-on hardware experience, from soldering and board repair to integrating third-party components on our drones
@@ -43,9 +43,9 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 
 ## Education  
 
-- **M.Eng. Robotics** – **University of Maryland**, USA (2024) – GPA: 3.85/4.0  
+- **M.Eng. Robotics** – **University of Maryland**, USA (2024) – GPA: 3.89/4.0  
   - Focus: Autonomous Robotics  
-  - Projects: Stochastic control of drones, Decentralized drone swarms, Ball catching with autonomous drone using Vicon and EKF
+  - Projects: Stochastic control of drones, Decentralized drone swarms, Ball catching with autonomous drone using Vicon and EKF, 3D vision and SLAM.
 
 - **M.Sc. Mechatronics Engineering** – **Budapest University of Technology and Economics**, Hungary (2023) – GPA: 4.51/5.0  
   - Thesis: RMS & Industry 4.0 integration in CNC manufacturing  
@@ -60,14 +60,21 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 ## Skills  
 
 - **Programming**: C, C++, Python, MATLAB, PLC  
-- **Frameworks/Tools**: ROS2, PX4, Git, Linux CLI, OpenCV, PyTorch3D  
-- **Modeling/Simulation**: SolidWorks, AutoCAD, Visual Components, Gazebo, Siemens Software  
-- **Expertise**: Autonomous Systems, UAVs, Stochastic Control, Digital Twins, Computer Vision, Machine Learning  
+- **Frameworks/Tools**: ROS2, PX4, ArduPilot, Betaflight, Git, Linux CLI, OpenCV, PyTorch3D  
+- **Modeling/Simulation**: Gazebo, SolidWorks, Simulink, Visual Components, Siemens Software  
+- **Expertise**: Autonomous Systems, UAVs, Stochastic Control, Distributed Swarms, Digital Twins, Computer Vision, Machine Learning  
 
 ---
 
 ## Scholarships & Honors
 
+- **Co-hosted Hands-On Aerial Robotics Using PX4 and ROS 2 Workshop** – ROSCon 2025, Singapore *(Oct 2025)*  
+  *Organized and presented on the first ever PX4 ROS2 Workshop *
+  <p align="center">
+    <a href="/assets/roscon_2025_workshop.jpeg">
+      <img src="/assets/roscon_2025_workshop.jpeg" alt="Group picture at ROSCon 2025" width="40%" />
+    </a>
+  </p>
 - **Lightning Talk Speaker** – ROSCon 2024, Odense, Denmark *(Oct 2024)*  
   *Presented on using ROS 2 and PX4 for developing custom flight modes.*
   <p align="center">
@@ -77,7 +84,17 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
   </p>
 - **Winner of Travel Grant** – IEEE Robotic Standardization Efforts (SPIRSE), IEEE Robotics and Automation Society *(Mar 2024)*  
   *Supported participation in IEEE ICRA 2024 (Yokohama, Japan) to engage in robotics standardization initiatives.*
-- **Fulbright Scholar Award** – Master's Studies in the United States *(2023)*
+  <p align="center">
+    <a href="/assets/icra_japan.jpeg">
+      <img src="/assets/icra_japan.jpeg" alt="Participating at ICRA 2024" width="40%" />
+    </a>
+  </p>
+- **Fulbright Scholar Award** – Master's Studies in the United States *(2022-2024)*
+  <p align="center">
+    <a href="/assets/fulbright.jpeg">
+      <img src="/assets/fulbright.jpeg" alt="Speaking about my Fulbright journey" width="40%" />
+    </a>
+  </p>
 - **Rosztoczy Foundation Scholarship Program** – Hungarian Scholarship for studies in the United States *(2023)*
 - **Hungarian American Coalition Dr. Elemér and Éva Kiss Scholarship** *(2022, 2023)*
 - **Second Place** – Hungarian National Round of the Conference of Student Research *(2023)*  
@@ -92,6 +109,10 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 ---
 
 ## Volunteering & Extracurricular Activities
+
+- **PX4 ROS2 Maintainer** – **Dronecode Foundation**, USA (Oct 2025 – Present)  
+- Developed material for ROSCon, Hands-On Aerial Robotics Using PX4 and ROS 2 Workshop.
+- Working on maintaining and developing the ROS2 & PX4 integration.
 
 - **Best Friends Animal Society** – Volunteer *(Salt Lake City, United States, 2024–Present)*
 
