@@ -69,7 +69,7 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 ## Scholarships & Honors
 
 - **Co-hosted Hands-On Aerial Robotics Using PX4 and ROS 2 Workshop** – ROSCon 2025, Singapore *(Oct 2025)*  
-  *Organized and presented on the first ever PX4 ROS2 Workshop *
+  *Organized and presented on the first ever PX4 ROS2 Workshop*
   <p align="center">
     <a href="/assets/roscon_2025_workshop.jpeg">
       <img src="/assets/roscon_2025_workshop.jpeg" alt="Group picture at ROSCon 2025" width="40%" />
