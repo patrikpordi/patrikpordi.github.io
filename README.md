@@ -20,10 +20,10 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 ## Work Experience  
 
 **Robotics & Drone Engineer** – **ARK Electronics**, USA (Jun 2024 – Present)  
-- Delivered ROS2 tutorials on custom PX4 flight modes, presented and held a workshop at ROSCon 2024 and 2025, respectively.  
-- Developed GPS/IMU drivers, integrated PX4 on Jetson & Raspberry Pi, and secured PX4 logs with encryption.  
-- Conducted flight tests, supported drone assembly/repair, and collaborated with interns.
-- Hands-on hardware experience, from soldering and board repair to integrating third-party components on our drones
+- Delivered ROS2 tutorials on custom PX4 flight modes & Computer Vision applications, presented and held a workshop at ROSCon 2024 and 2025, respectively.  
+- Engineered GPS/IMU drivers, integrated PX4 on NVIDIA Jetson and Raspberry Pi platforms, and implemented encrypted logging for secure flight data.
+- Performed systematic flight testing, contributed to drone design and diagnostics, and provided mentorship and technical guidance to interns.
+- Brought extensive hardware expertise, including soldering, board-level troubleshooting, and seamless integration of third-party modules across embedded and autonomous systems.
 
 **Teaching Assistant – Robot Programming** – **University of Maryland**, USA (Aug 2023 – Jun 2024)
 - Assisted professors with class material preparation, assignments, projects, and grading for both undergraduate and graduate students.
@@ -62,7 +62,7 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 - **Programming**: C, C++, Python, MATLAB, PLC  
 - **Frameworks/Tools**: ROS2, PX4, ArduPilot, Betaflight, Git, Linux CLI, OpenCV, PyTorch3D  
 - **Modeling/Simulation**: Gazebo, SolidWorks, Simulink, Visual Components, Siemens Software  
-- **Expertise**: Autonomous Systems, UAVs, Stochastic Control, Distributed Swarms, Digital Twins, Computer Vision, Machine Learning  
+- **Expertise**: Autonomous Systems, UAVs, Stochastic Control, Distributed Swarms, Digital Twins, Computer & 3D Vision, Machine Learning  
 
 ---
 
@@ -111,8 +111,8 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 ## Volunteering & Extracurricular Activities
 
 - **PX4 ROS2 Maintainer** – **Dronecode Foundation**, USA (Oct 2025 – Present)  
-- Developed material for ROSCon, Hands-On Aerial Robotics Using PX4 and ROS 2 Workshop.
-- Working on maintaining and developing the ROS2 & PX4 integration.
+  - Developed material for ROSCon, Hands-On Aerial Robotics Using PX4 and ROS 2 Workshop.
+  - Working on maintaining and developing the ROS2 & PX4 integration.
 
 - **Best Friends Animal Society** – Volunteer *(Salt Lake City, United States, 2024–Present)*
 
