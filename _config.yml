@@ -9,6 +9,7 @@ description: |
   <ul>
     <li><a href="https://www.youtube.com/watch?v=3BJB3OAo3tw&list=PLUepQApgwSoyIdgrab7oNXktWxaxzTcKm&index=2">ROS2 & PX4 Tutorials</a></li>
     <li><a href="https://youtu.be/ohmR_N8FW8Q?si=Nsj9952hBcybCJmh">Ball catching with autonomous drone using Vicon and EKF</a></li>
+    <li><a href="https://youtu.be/9gGAZJ9oBok">Geometric Decentralized Swarm Control</a></li>
   </ul>
 
   <h4>Git Repositories</h4>
@@ -23,6 +24,8 @@ description: |
     <li><a href="/assets/resume.pdf">Curriculum Vitae (PDF)</a></li>
     <li><a href="/assets/swarm.pdf">Drone Swarm Control Paper</a></li>
     <li><a href="/assets/catch.pdf">Ball catching with autonomous drone using Vicon and EKF</a></li>
+    <li><a href="/assets/STEP_Paper.pdf">Feature Recognition Based Processing of STEP Files</a></li>
+
   </ul>
 
 theme: jekyll-theme-minimal
