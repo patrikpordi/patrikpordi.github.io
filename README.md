@@ -66,9 +66,9 @@ Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and ph
 
 ## Skills  
 
-- **Programming**: C, C++, Python, MATLAB, PLC  
+- **Programming**: C, C++,Rust,Python, MATLAB, PLC  
 - **Frameworks/Tools**: ROS2, PX4, ArduPilot, Betaflight, Git, Linux CLI, OpenCV, PyTorch3D  
-- **Modeling/Simulation**: Gazebo, SolidWorks, Simulink, Visual Components, Siemens Software  
+- **Modeling/Simulation**: Gazebo, Foxglove, PlotJuggler, SolidWorks, Inkscape, Siemens Software, Visual Components, 3D Printing
 - **Expertise**: Autonomous Systems, UAVs, Stochastic Control, Distributed Swarms, Digital Twins, Computer & 3D Vision, Machine Learning  
 
 ---
