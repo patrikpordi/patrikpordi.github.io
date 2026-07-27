@@ -1,25 +1,32 @@
 # Portfolio
 
-Salt Lake City, Utah  
+Odense, Denmark  
 Email: [pordipatrik@gmail.com](mailto:pordipatrik@gmail.com)  
-Phone: +1 (240) 714-0679 | +36 (30) 643-6565  
+Phone: +45 (50) 25-8866 | +36 (30) 643-6565  
 [LinkedIn](https://www.linkedin.com/in/patrik-pordi/) | [GitHub](https://github.com/patrikpordi) | [YouTube](https://www.youtube.com/@PatrikDominikPoerdi)  
 
 ---
 
 ## About Me  
-I am a Robotics and UAV engineer from Hungary, who is passionate about autonomous systems, computer vision, stochastic control and embedded development, lately I am getting involved with physical AI.  
-Currently, during my Fulbright scholarship I work at ARK Electronics in Salt Lake City, where I develop ROS2 tutorials, PX4 flight modes, and embedded drivers for UAV systems, moreover I focus on hardware and software integration with the Jetson and Pi platform.  
+I am a Robotics and UAV engineer from Hungary with a passion for autonomous systems, computer vision, stochastic control, embedded development, and, more recently, physical AI.
 
-My background combines robotics research, engineering, and teaching—ranging from drone swarms and CNC cyber-physical systems to guiding students in ROS2 programming.  
+I was a Fulbright Scholar at ARK Electronics in Salt Lake City, where I developed ROS 2 tutorials, PX4 flight modes, and embedded drivers for UAV systems, while focusing on hardware and software integration with NVIDIA Jetson and Raspberry Pi platforms.
+
+Currently, I am a doctoral researcher investigating multi-robot systems for agriculture and nature conservation. My background combines robotics research, engineering, and teaching—from CNC cyber-physical systems and autonomous UAVs to guiding students in ROS 2 programming.
+
+My primary research interest is swarm robotics.
 
 Outside of engineering, I enjoy traveling, hiking, snowboarding, climbing and photography.  
 
 ---
 
-## Work Experience  
+## Work Experience
 
-**Robotics & Drone Engineer** – **ARK Electronics**, USA (Jun 2024 – Present)  
+**Doctoral researcher**, Denmark (April 2026 – Present)  
+- Conducting research in multi-robot systems for agriculture and nature conservation.  
+- Preparing workshop for ROSCon 2026, with multi robot system additions.  
+
+**Robotics & Drone Engineer** – **ARK Electronics**, USA (Jun 2024 – Marc 2026)  
 - Delivered ROS2 tutorials on custom PX4 flight modes & Computer Vision applications, presented and held a workshop at ROSCon 2024 and 2025, respectively.  
 - Engineered GPS/IMU drivers, integrated PX4 on NVIDIA Jetson and Raspberry Pi platforms, and implemented encrypted logging for secure flight data.
 - Performed systematic flight testing, contributed to drone design and diagnostics, and provided mentorship and technical guidance to interns.
